@@ -2,7 +2,7 @@ package az.ingress;
 
 import java.util.Objects;
 
-public class Menegment {
+public class Management {
     public static void main(String[] args) {
       Student student1=new Student("Senan",90);
       Student student2=new Student("Kenan",85);
